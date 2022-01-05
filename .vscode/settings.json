@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Punto3/TRES/src",
+        "Punto2/DOS/src",
+        "Punto1/UNO/src",
+        "Punto4/Cuatro/src"
+    ]
+}
